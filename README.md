@@ -1,11 +1,11 @@
 Get Teacher Information
 ===================================
----
+
 此脚本基于Python，可以拉取基于青果软件的教育网络管理系统的教师信息，并生成多个Excel表格，进行教师信息的统计
 
 如何使用？
 ---------
-***
+
 
 你需要安装[Python](http://python.org/download/)
 确定Python命令可以使用
@@ -23,7 +23,7 @@ Get Teacher Information
 
 常见问题
 --------
-***
+
 
 1. 此版基于Python3.3，请使用Python3.3+运行
 2. 若出现错误，请按照软件提示输入
@@ -35,7 +35,7 @@ Get Teacher Information
 
 依赖的模块
 ----------
-***
+
 
 - xlwt  [这里使用的是支持Python3.3的模块 xlwt-future 0.8.0](https://pypi.python.org/pypi/xlwt-future)
 - urllib
@@ -45,13 +45,13 @@ Get Teacher Information
 
 如何联系我
 ----------
-***
+
 
 [我的博客](http://blueandhack.com)
 
 
 协议
 ----
-***
+
 
 遵守MIT协议
