@@ -53,3 +53,6 @@ docs/_build/
 
 #pycharm
 .idea/
+
+#project
+*.txt
