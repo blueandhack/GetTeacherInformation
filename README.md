@@ -34,12 +34,12 @@ Get Teacher Information
 5. 增加了对mongodb的支持，如果你需要将数据写入到mongodb中，请首先启动mongodb后再运行本程序
 6. **注意：**在这个版本里增加了读取配置文件的功能，请在本项目文件夹下建立一个config.txt的文本文件，在文件内写入：
 
-
-    http://********.com/XXX/
-    ASP.NET_SessionId=*****************************
-    1
-    localhost
-
+```
+ http://********.com/XXX/
+ ASP.NET_SessionId=*****************************
+ 1
+ localhost
+```
 第一行表示教务系统登陆界面的url
 第二行登陆后的Cookie
 第三行选择存储模式
